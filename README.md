@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about Hyperledger Fabric in Chinese channel
 - 😄 Pronouns: `David` for most business use case. But my friends always call me `狼哥`
 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkhala&layout=compact)](https://github.com/davidkhala)
+
+[![David's Github stats](https://github-readme-stats.vercel.app/api?username=davidkhala)](https://github.com/davidkhala)
+
 
 
 
 ### Acknowledgement
 Thanks @cjbj Christopher Jones, his Github profile give me hints about this secret feature
+
+Stats badge powered by https://github.com/anuraghazra/github-readme-stats
