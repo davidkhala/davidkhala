@@ -5,6 +5,10 @@
 
 ## Github desktop
 
+## Repository
+- Repository Environment Box: controlled by settings for the repository
+    > The environments tab shows a block under the details of the repository. Once a deployment has been made to a service—be that GitHub Pages, or an external service—the historic deployments will show up in this tab. The checkbox in the settings for the repository will either display that information or hide it.
+
 ## Branches
 
 [How to sync master to a fork](https://help.github.com/articles/syncing-a-fork/)
