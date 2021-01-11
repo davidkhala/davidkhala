@@ -4,7 +4,7 @@
 **davidkhala/davidkhala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 📫 How to reach me: ...
+- 📫 How to reach me: david-khala@hotmail.com
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: 许愿门
 -->
