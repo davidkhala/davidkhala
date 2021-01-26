@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on @Hyperledger-TWGC
 - 💬 Ask me about Hyperledger Fabric in Chinese channel
 - 😄 Pronouns: `David` for most business use case. But my friends always call me `狼哥`
+- I love telling stories, metaphors or anecdotes
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkhala&layout=compact)](https://github.com/davidkhala)
 
