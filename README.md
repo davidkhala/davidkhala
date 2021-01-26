@@ -1,20 +1,19 @@
 ### Hi there 👋
 
 <!--
-**davidkhala/davidkhala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some Easter eggs of me:
 - 📫 How to reach me: david-khala@hotmail.com
-- 🤔 I’m looking for help with ...
+- 💬 I love telling stories, metaphors or anecdotes
 - ⚡ Fun fact: 许愿门
+- 🤔 Motto: Thanks for your confession, but don't find excuse for yourself, just act faster and harder. You need a plan or target, otherwise it will go nowhere. Can you tell me your plan by end of today?
 -->
 
 - 🔭 I’m currently working on @oracle
 - 🌱 I’m currently learning @fnproject, CNCF(K8S), Ansible, Terraform
 - 👯 I’m looking to collaborate on @Hyperledger-TWGC
-- 💬 Ask me about Hyperledger Fabric in Chinese channel
 - 😄 Pronouns: `David` for most business use case. But my friends always call me `狼哥`
-- I love telling stories, metaphors or anecdotes
+- 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkhala&layout=compact)](https://github.com/davidkhala)
 
