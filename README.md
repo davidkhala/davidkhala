@@ -17,7 +17,6 @@ Here are some Easter eggs of me:
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkhala&layout=compact)](https://github.com/davidkhala)
 
-[![David's Github stats](https://github-readme-stats.vercel.app/api?username=davidkhala)](https://github.com/davidkhala)
 
 
 
