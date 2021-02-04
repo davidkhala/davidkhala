@@ -17,6 +17,7 @@ Here are some Easter eggs of me:
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkhala&layout=compact)](https://github.com/davidkhala)
 
+### As Linux guy
 We trust you have received the usual lecture from the local System
 Administrator. It usually boils down to these three things:
 
