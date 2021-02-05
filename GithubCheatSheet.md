@@ -2,6 +2,8 @@
 - [Github Helpdesk Ticket](https://support.github.com/tickets/personal/0)
 - [Github.com status live report](https://www.githubstatus.com/)
 
+## Limit
+- GitHub has a strict file limit of **100MB**
 
 ## Github desktop
 
