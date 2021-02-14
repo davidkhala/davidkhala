@@ -4,6 +4,8 @@
 
 ## Limit
 - GitHub has a strict file limit of **100MB**
+- Github repository description cannot include newline (EOL)
+    - otherwise it shows `Error saving your changes: Description control characters are not allowed`
 
 ## Github desktop
 
