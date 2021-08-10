@@ -21,3 +21,15 @@
 ## Github Gist
 - [No longer able to make public gists private](https://gist.github.com/zmwangx/bc79e7d95d82c2f5e0976975b6e1c6d6)
 
+## Github Packages
+
+- Docker login
+    ```
+    $ export CR_PAT=YOUR_personal_access_token
+    $ echo $CR_PAT | docker login ghcr.io -u USERNAME --password-stdin
+    > Login Succeeded
+    ```
+- Docker push
+    ```
+    docker push ghcr.io/OWNER/IMAGE_NAME:latest
+    ```
