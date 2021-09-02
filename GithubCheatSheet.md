@@ -1,7 +1,7 @@
 ## SiteMap
 - [Github Helpdesk Ticket](https://support.github.com/tickets/personal/0)
 - [Github.com status live report](https://www.githubstatus.com/)
-
+- [Github Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 ## Limit
 - GitHub has a strict file limit of **100MB**
 - Github repository description cannot include newline (EOL)
