@@ -33,3 +33,6 @@
     ```
     docker push ghcr.io/OWNER/IMAGE_NAME:latest
     ```
+## `$ gh` -- Github CLI
+- [official: Installing gh on Linux and BSD](https://github.com/cli/cli/blob/trunk/docs/install_linux.md)
+- 
