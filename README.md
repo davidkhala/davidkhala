@@ -30,6 +30,6 @@ Administrator. It usually boils down to these three things:
 
 
 ### Acknowledgement
-Thanks @cjbj Christopher Jones, his Github profile reveal this secret feature to me
+Thanks @cjbj Christopher Jones, his Github profile reveals this secret feature to me
 
 Stats badge powered by https://github.com/anuraghazra/github-readme-stats
