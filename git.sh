@@ -1,4 +1,4 @@
-set -e -x
+set -e
 push-tag() {
 	local tag_name = $1
 	git push origin $tag_name
