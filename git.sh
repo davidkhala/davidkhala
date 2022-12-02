@@ -14,7 +14,7 @@ setup() {
 }
 
 # Git clone or update
-update() {
+clone() {
 	
 	local reposURL=$1
 	local branch=$2
