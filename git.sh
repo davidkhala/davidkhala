@@ -14,7 +14,7 @@ setup() {
 }
 
 # Git clone or update
-clone() {
+update-clone() {
 	
 	local reposURL=$1
 	local branch=$2
@@ -24,7 +24,7 @@ clone() {
 	local dirname=${3:-$PWD}
 
 	if [[ ${reposURL} == github* ]]; then
-		clone-or-update "https://${reposURL}.git" $branch
+		update-clone "https://${reposURL}.git" $branch
 	elif [[ ${reposURL} == https://* ]]; then
 		projectName=$(echo ${reposURL} | cut -d '/' -f 5 | cut -d '.' -f 1)
 
