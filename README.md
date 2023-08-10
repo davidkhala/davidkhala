@@ -9,7 +9,7 @@ Here are some Easter eggs of me:
 - 🤔 Motto: Thanks for your confession, but don't find excuse for yourself, just act faster and harder. You need a plan or target, otherwise it will go nowhere. Can you tell me your plan by end of today?
 -->
 
-- 🔭 I’m currently working on @oracle
+- 🔭 I’m currently working on @GFT
 - 🌱 I’m currently learning @fnproject, CNCF(K8S), Ansible, Terraform, [DB ranking](https://db-engines.com/en/ranking)
 - 👯 I’m looking to collaborate on @Hyperledger-TWGC
 - 😄 Pronouns: `David` for most business use case. But my friends always call me `狼哥`
