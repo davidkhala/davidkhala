@@ -10,7 +10,7 @@ Here are some Easter eggs of me:
 -->
 
 - 🔭 I’m currently working on @GFT
-- 🌱 I’m currently learning @fnproject, CNCF(K8S), Ansible, Terraform, [DB ranking](https://db-engines.com/en/ranking)
+- 🌱 I’m currently learning Confluent, K8S, Ansible, Terraform, [DB ranking](https://db-engines.com/en/ranking)
 - 👯 I’m looking to collaborate on @Hyperledger-TWGC
 - 😄 Pronouns: `David` for most business use case. But my friends always call me `狼哥`
 
