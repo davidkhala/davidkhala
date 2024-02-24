@@ -1,3 +1,6 @@
+## Repos Insights
+- list people who have starred a GitHub repository: HTTP GET `${repository-url}/stargazers`
+
 ## SiteMap
 - [Github Helpdesk Ticket](https://support.github.com/tickets)
 - [Give Feedback to Github](https://github.com/orgs/community/discussions)
