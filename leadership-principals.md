@@ -25,3 +25,9 @@ Administrator. It usually boils down to these three things:
 - 危急时刻展现出强烈的进取心和想赢的情绪
 - 能够自如的与每个成员沟通，并不断地以一对一方式确保双向沟通，传递正能量
 - 研究规则的极限，在带领团队胜利的前提下不考虑个人形象
+
+# As learner
+> Pause, Practice. 
+> Rewind, Rewatch. 
+> Everybody else does it.
+> -- MongoDB
