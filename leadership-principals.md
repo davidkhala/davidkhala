@@ -1,5 +1,5 @@
 - 永远不要告诉别人如何做事。告诉他们该做什么，他们的创造性会让你大吃一惊
-- Thanks for your confession, but don't find excuse for yourself, just act faster and harder. You need a plan or target, otherwise it will go nowhere. Can you tell me your plan by end of today?
+- Thanks for your confession, but don't find excuse for yourself, just act faster and harder. You need a plan or target, otherwise it will go nowhere. Can you tell me your plan by end of today? ---- Eric Cheung. Oracle Hongkong
 - *Make the easy things easy and the hard things possible* ---- Perl community
 - *Boldness does win the game -- being different and not following what everybody else is doing.* ---- Safra Catz at OCW 2022
 
