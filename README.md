@@ -10,7 +10,7 @@ Here are some Easter eggs of me:
 -->
 
 - 🔭 I’m currently working at Kyndryl
-- 🌱 I’m currently learning K8S, Ansible, Terraform, [DB ranking](https://db-engines.com/en/ranking) and Databricks
+- 🌱 I’m currently learning Pulumi, [DB ranking](https://db-engines.com/en/ranking) and Databricks
 - 👯 I’m looking to collaborate on @Hyperledger-TWGC
 - 😄 Pronouns: `David` for most business use case. But my friends always call me `狼哥`
 
