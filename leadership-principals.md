@@ -1,7 +1,9 @@
-- 永远不要告诉别人如何做事。告诉他们该做什么，他们的创造性会让你大吃一惊
+
 - Thanks for your confession, but don't find excuse for yourself, just act faster and harder. You need a plan or target, otherwise it will go nowhere. Can you tell me your plan by end of today? ---- Eric Cheung. Oracle Hongkong
 - *Make the easy things easy and the hard things possible* ---- Perl community
-- *Boldness does win the game -- being different and not following what everybody else is doing.* ---- Safra Catz at OCW 2022
+- Wild Ducks
+    - > It takes a few wild ducks to make any business go, because if you don’t have the fellows with the new ideas willing to buck the managerial trends and shock them into doing something new and better… the business pretty well slows down. ---- Thomas J. Watson Jr
+    - *Boldness does win the game -- being different and not following what everybody else is doing.* ---- Safra Catz at OCW 2022
 
 # As Linux guy
 We trust you have received the usual lecture from the local System
@@ -25,6 +27,7 @@ Administrator. It usually boils down to these three things:
 - 危急时刻展现出强烈的进取心和想赢的情绪
 - 能够自如的与每个成员沟通，并不断地以一对一方式确保双向沟通，传递正能量
 - 研究规则的极限，在带领团队胜利的前提下不考虑个人形象
+- 永远不要告诉别人如何做事。告诉他们该做什么，他们的创造性会让你大吃一惊
 
 # As learner
 > Pause, Practice. 
