@@ -34,3 +34,6 @@ Administrator. It usually boils down to these three things:
 > Rewind, Rewatch. 
 > Everybody else does it.
 > -- MongoDB
+
+# As Enterpreneur
+[Cool like 37signals](https://www.huxiu.com/article/3099683.html)
