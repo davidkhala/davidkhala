@@ -1,4 +1,5 @@
-
+## Input method
+切换全角/半角：shift + space 
 
 ## Keychron k8 pro 
 - Press [Fn]+[1]/[2]/[3] (for 4 seconds) and pair with device named "Keychron K8 Pro"
