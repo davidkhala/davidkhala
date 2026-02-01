@@ -19,7 +19,7 @@ Here are some Easter eggs of me:
 - I'm a seasoned open source maintainer with a passion for automating repetitive tasks and lowering the barrier for contributors of all kinds and backgrounds
 - AI accelerate some of my works, but not too much. Those pioneer works rarely have verified information available on internet. Upon that, AI just respond hallucination than value.
   - powered by GitHub public MCP server, all my knowledge is immediately ready for AI Agent
-
+- I maintain a deliberate taxonomy across my GitHub repositories, where each project’s name conveys its domain and purpose.
 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkhala&layout=compact)](https://github.com/davidkhala)
