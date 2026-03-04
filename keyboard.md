@@ -2,7 +2,7 @@
 切换全角/半角：shift + space 
 
 ## Keychron k8 pro 
-- Press [Fn]+[1]/[2]/[3] (for 4 seconds) and pair with device named "Keychron K8 Pro"
+- 蓝牙匹配：Press [Fn]+[1]/[2]/[3] (for 4 seconds) and pair with device named "Keychron K8 Pro"
 - 开关背光：[Fn]+[Tab]
 - 切换灯光效果：[Fn]+[Q]  
 
