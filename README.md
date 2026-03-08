@@ -12,9 +12,9 @@ Here are some Easter eggs of me:
 
 -->
 
-- 🔭 I’m currently working at Kyndryl
-- 🌱 I’m currently learning [DB ranking](https://db-engines.com/en/ranking)
-- 👯 I’m looking to collaborate on @Hyperledger-TWGC
+- 🔭 I’m currently working at IBM
+- 🌱 I’m currently learning [DB ranking](https://db-engines.com/en/ranking) and IBM watsonx
+- 👯 I’m looking to collaborate on @Hyperledger-TWGC, Apache Beam
 - 😄 Pronouns: `David` for most business use case. But my friends always call me `狼哥`
 - I'm a seasoned open source maintainer with a passion for automating repetitive tasks and lowering the barrier for contributors of all kinds and backgrounds
 - AI accelerate some of my works, but not too much. Those pioneer works rarely have verified information available on internet. Upon that, AI just respond hallucination than value.
