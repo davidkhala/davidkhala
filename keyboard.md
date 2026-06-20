@@ -15,3 +15,7 @@
 - [CTRL] + [ALT] + [DELETE] 
 
 使用[Fn] + [F9]组合键 to switch mode
+
+## Aula 狼蛛
+- 按[Fn] + [↓] 变暗关灯
+- 按[Fn] + [↑] 变亮开灯
