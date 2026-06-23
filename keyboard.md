@@ -9,7 +9,7 @@
 - 增加灯光亮度: [Fn]+[w]
 - 降低灯光亮度: [Fn]+[s]
 
-[网页改键盘layout](https://launcher.keychron.com/#/keymap)
+[网页改键盘layout](https://launcher.keychron.com)
 ### 游戏模式
 以下指令不会被执行： 
 - Windows键 
